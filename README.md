@@ -1,5 +1,7 @@
 # Python Practice
 Some resources for practicing Python
+How to use: click "Download ZIP" on the top right
+Follow the instructions for the respective file below!
 
 1. Boolean Practice (boolean_practice.py)
   - This program automatically generates boolean expressions and asks you what they result in.
