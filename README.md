@@ -10,3 +10,5 @@ Follow the instructions for the respective file below!
   - Starts at Level 1, with 1 boolean operator
   - After every 5 questions, you go up 1 level, which adds on another boolean operator
   - See how far you can go!
+
+![Boolean Practice Screenshot](https://github.com/avikam-chauhan/python-practice/blob/master/images/Screen%20Shot%202020-08-31%20at%204.18.09%20PM.png)
