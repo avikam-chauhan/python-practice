@@ -1,5 +1,6 @@
 # Python Practice
 Some resources for practicing Python
+
 How to use: click "Download ZIP" on the top right
 Follow the instructions for the respective file below!
 
