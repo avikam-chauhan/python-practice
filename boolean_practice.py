@@ -14,15 +14,12 @@ def generate_random_value():
     return prefix[random.randint(0, len(prefix) - 1)] + str(eval(values[random.randint(0, len(values) - 1)]))
 
 def generate_boolean_statement(n):
-    arr = []
+    statement = ""
     for i in range(n):
-        arr.append(generate_random_value())
-        arr.append(generate_random_boolean_operator())
-    arr.append(generate_random_value())
-    printable_statement = ""
-    for val in arr:
-        printable_statement += val
-    return printable_statement, eval(printable_statement)
+        statement += generate_random_value()
+        statement += generate_random_boolean_operator()
+    statement += generate_random_value()
+    return statement, eval(statement)
 
 print("\nBoolean Practice (written by Avikam C.)\nType the answer below each question!")
 while True:
