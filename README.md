@@ -1,2 +1,9 @@
-# python-practice
+# Python Practice
 Some resources for practicing Python
+
+1. Boolean Practice (boolean_practice.py)
+  - This program automatically generates boolean expressions and asks you what they result in.
+  - Usage: python3 boolean_practice.py
+  - Starts at Level 1, with 1 boolean operator
+  - After every 5 questions, you go up 1 level, which adds on another boolean operator
+  - See how far you can go!
